@@ -2,7 +2,6 @@
 layout: home
 ---
 
-# Anders Slattery
 Hello!
 
 I am a recent environmental informatics graduate from UW-Madison focused on enterprise GIS systems and conservation analytics.
