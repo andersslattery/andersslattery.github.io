@@ -1,0 +1,15 @@
+theme: minima
+title: Anders Slattery - GIS Portfolio
+description: Enterprise GIS and Conservation Analytics
+
+author:
+  name: Anders Slattery
+  email: andersslattery2@gmail.com
+
+header_pages:
+  - about.md
+  - projects.md
+
+collections:
+  projects:
+    output: true
