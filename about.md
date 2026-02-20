@@ -4,8 +4,9 @@ title: About
 ---
 
 ## About Me
+Hello!
 
-I am an environmental informatics graduate student focused on enterprise GIS systems and conservation analytics.
+I am a recent environmental informatics graduate from UW-Madison focused on enterprise GIS systems and conservation analytics.
 
 My work centers on:
 - Spatial data management
