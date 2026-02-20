@@ -3,11 +3,16 @@ layout: home
 ---
 
 # Anders Slattery
+Hello!
 
-Geospatial Analyst | Enterprise GIS | Remote Sensing
+I am a recent environmental informatics graduate from UW-Madison focused on enterprise GIS systems and conservation analytics.
+My work centers on:
 
-I am a graduate student in Environmental Observation and Informatics at UW–Madison specializing in conservation-focused spatial analysis, enterprise GIS workflows, and geospatial automation.
+    Spatial data management
+    Web GIS product development
+    Multispectral classification
+    Python automation
+    Scalable conservation decision-support tools
 
-My work integrates ArcGIS Pro, ArcGIS Online, and Python to develop scalable spatial data products supporting ecological resilience and restoration.
 
 [View Projects](/projects)
